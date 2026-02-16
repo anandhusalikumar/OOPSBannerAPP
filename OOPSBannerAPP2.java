@@ -10,7 +10,7 @@ public class OOPSBannerAPP2 {
     public static void main(String[] args) {
         StringBuilder banner = new StringBuilder();
         
-        banner.append("***** ").append(" ").append(" ***** ").append(" ").append(" ****** ").append(" ").append("******* ").append("\n");
+        banner.append(" ***** ").append(" ").append(" ***** ").append(" ").append(" ****** ").append(" ").append("******* ").append("\n");
         banner.append(" ** ** ").append(" ").append(" ** ** ").append(" ").append(" ** ** ").append(" ").append(" ****").append("\n");
         banner.append(" ** ** ").append(" ").append(" ** ** ").append(" ").append(" ** ** ").append(" ").append(" ** ").append("\n");
         banner.append(" ** ** ").append(" ").append(" ** ** ").append(" ").append(" ****** ").append(" ").append("******* ").append("\n");
