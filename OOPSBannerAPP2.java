@@ -1,7 +1,7 @@
 /**
  * OOPSBannerApp - Using StringBuilder
  * UC1: Print OOPS to Console using String Concatenation
- * @author Samyak
+ * @author Anandhu
  * @version 3.0
  */
 
